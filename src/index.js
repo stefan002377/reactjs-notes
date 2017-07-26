@@ -110,7 +110,6 @@ class NotesList extends React.Component {
                   }
                   <div className="button-action">
                     <span onClick={()=> this.actionEdit(n.id_n)} className="glyphicon glyphicon-pencil"/>
-                    <span className="glyphicon glyphicon-move"/>
                     <span onClick={()=> this.actionDelete(n.id_n)} className="glyphicon glyphicon-remove"/>
                   </div>
                 </div>
