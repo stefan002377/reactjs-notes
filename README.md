@@ -1,5 +1,9 @@
 # React Notes
 
-A Notes Web Aplication created with React
+React Notes App created with React and Bootstrap
 
-You can see a demo version here <a href="http://stefanciobanu.com/reactjs-notes/" >React Notes</a>
+## Demo
+[Address Book - Live DEMO](http://www.stefanciobanu.com/reactjs-notes)
+
+## Author
+[Stefan Ciobanu](http://www.stefanciobanu.com)
